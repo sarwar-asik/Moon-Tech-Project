@@ -1,8 +1,8 @@
 ## server
 
-server link : https://github.com/mir-hussain/moon-tech-server
+server link : updating 
 
 
 ## Starter pack
 
-starter pack : https://github.com/mir-hussain/moon-tech-starter-pack
+starter pack :
