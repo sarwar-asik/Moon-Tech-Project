@@ -13,7 +13,7 @@ import { useLocation } from "react-router-dom";
 const ProductCard = ({ product }) => {
   const dispatch = useDispatch();
   const { pathName } = useLocation();
-console.log(pathName);
+// console.log(pathName);
   return (
     <div
       className="shadow-lg rounded-3xl border  p-3 flex flex-col text-indigo-900"
